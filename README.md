@@ -6,6 +6,11 @@ I downloaded the Inquirier NPM which I was able to utilize in my integrated term
 
 
 Please see the appropriate  links below.
-Sample README Generated.JPG
-Terminal Screenshot.JPG
+
 https://youtu.be/mR3ycg6gAf0
+
+
+<img src="Sample README Generated.JPG">
+
+<img src="Terminal Screenshot.JPG">
+
